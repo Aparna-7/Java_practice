@@ -1,5 +1,5 @@
 package amsuper;
-
+//commited to github
 //super is used to refer immediate parent class instance variable.
    class Super2{
 	  String name="I am SUPER";
